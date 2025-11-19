@@ -1,4 +1,5 @@
 config:
-  url: "https://api-dev.siwi.ai"
+  url: "https://api.siwi.ai"
 
   saltVersion: "3006.16"
+
