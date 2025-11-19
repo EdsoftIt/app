@@ -1,5 +1,6 @@
 config:
-  url: "https://api.siwi.ai"
+  url: "https://api-hmlg.siwi.ai"
 
   saltVersion: "3006.16"
+
 
