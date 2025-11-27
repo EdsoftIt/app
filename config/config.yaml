@@ -1,3 +1,4 @@
 config:
   saltVersion: "3006.16"
   url: "https://api-hmlg.siwi.ai"
+  agentVersion: 1.0
